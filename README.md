@@ -12,4 +12,4 @@ A simple donation management web app using PHP, MYSQL,  and Bootstrap.
 3. Import the database( donation_app.sql).
 4. Run it on localhost.
 
-This is my firt full project! I'm still improving it and I'm open to feedback.
+This is my first project! I'm still improving it and I'm open to feedback.
